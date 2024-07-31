@@ -1,0 +1,38 @@
+.m1{
+    
+    background-color: aquamarine;
+    width: 400px;
+    text-align: center;
+    margin-left: 500px;
+    height: 500px;
+margin-top: 100px;
+border-radius:50px 50px 50px 50px ;
+}
+#ca{
+
+margin-top: 100px;
+}
+#date1{
+    width: 200px;
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+    border-radius:10px 10px 10px 10px ;
+}
+
+#date2{
+    width: 200px;
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+    border-radius:10px 10px 10px 10px ;
+}
+button{
+    width: 200px;
+    margin-top: 20px;
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+    border-radius:10px 10px 10px 10px ;
+}
+#ca{
+    color: red;
+    margin-top: 20px;
+}
